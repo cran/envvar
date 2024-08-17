@@ -1,7 +1,7 @@
 Package: envvar
 Title: Make Working with Environment Variables Easier and More
         Consistent
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: 
     person("Brian", "Connelly", , "bdc@bconnelly.net", role = c("aut", "cre", "cph"),
            comment = c(ORCID = "0000-0002-9948-0379"))
@@ -17,11 +17,11 @@ Suggests: httr2, ipaddress, spelling, testthat (>= 3.0.0), uuid, withr
 Config/testthat/edition: 3
 Encoding: UTF-8
 Language: en-US
-RoxygenNote: 7.2.3
+RoxygenNote: 7.3.2
 NeedsCompilation: no
-Packaged: 2024-01-15 17:54:35 UTC; bconnelly
+Packaged: 2024-08-08 15:07:54 UTC; bconnelly
 Author: Brian Connelly [aut, cre, cph]
     (<https://orcid.org/0000-0002-9948-0379>)
 Maintainer: Brian Connelly <bdc@bconnelly.net>
 Repository: CRAN
-Date/Publication: 2024-01-15 18:20:03 UTC
+Date/Publication: 2024-08-17 20:20:02 UTC
